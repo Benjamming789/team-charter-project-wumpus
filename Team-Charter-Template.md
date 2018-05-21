@@ -1,9 +1,12 @@
-# <Team Name> Charter
+# Project Wumpus Charter
 
 ## Team Members
 
-* <name> (Team Lead)
-* <names of each team member, one to a line>
+* Kyle Munoz (Team Lead)
+* Ben Eastey
+* Kole Elm
+* Liam Byrne
+* Fernando 
 
 ## Deliverable
 
@@ -11,7 +14,7 @@
 
 ### Milestones
 
-1. <List major steps along the way and the test that signifies achieving them>
+1. finish game
 2.
 
 ## Schedule
