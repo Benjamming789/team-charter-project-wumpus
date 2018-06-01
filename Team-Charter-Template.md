@@ -7,6 +7,7 @@
 * Kole Elm
 * Liam Byrne
 * Fernando 
+* Yicheng Zhu
 
 ## Deliverable
 
